@@ -1,13 +1,12 @@
 # CSE-564-Data-Analytics-and-Visualization-Lab-2B
-A D3.js Dashboard utilizing Data Engineering and visualization it using Multidimensional Scaling Plots, Parallel Coordinate Plots. Implemented PCP axes click and order functioning from MDS points and Pearson's Corealations.
 
 ## Overview
-This repository contains the implementation for Lab 2B, focusing on advanced data visualization techniques. The tasks involve creating MDS plots for data and variables, visualizing data using parallel coordinates plots, and determining optimal axis ordering based on correlations.
+A D3.js Dashboard utilizing Data Engineering and Visualizing using Multidimensional Scaling Plots and parallel Coordinate Plots. Implemented PCP axes click and order functioning from MDS points and Pearson's Correlations.
 
 ## Tasks
 
 ### Task 4: MDS Plots
-- **Data MDS Plot (4a)**: Construct and visualize a scatterplot of the data using Euclidean distance with metric MDS. Color the points by cluster ID.
+- **Data MDS Plot (4a)**: Construct and visualize a scatterplot of the data using Euclidean distance with metric MDS. Color the points by cluster-ID.
 - **Variables' MDS Plot (4b)**: Construct and visualize a scatterplot of the variables using the (1-|correlation|) distance with metric MDS.
 
 ### Task 5: Parallel Coordinates Plot (PCP)
@@ -20,6 +19,6 @@ This repository contains the implementation for Lab 2B, focusing on advanced dat
 - Enable user interaction to click on points in sequence and arrange the axes accordingly.
 
 ## Additional Requirements
-- Label axes and tick marks appropriately.
-- Show color legends where necessary.
-- Provide meaningful headers on each plot.
+- Labeling axes and tick marks appropriately.
+- Showing colour legends where necessary.
+- Providing meaningful headers on each plot.
